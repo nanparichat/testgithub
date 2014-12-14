@@ -1,0 +1,8 @@
+login github>สร้างโฟลเดอร์ >เข้าโฟลเดอร์สร้างไฟล์text> สร้างข้อมูลในไฟล์text 
+>ไปที่ github >new respository>เลือก public >create 
+
+command prom
+
+cd folder >file
+
+พิม git init เป็นการกำหนด 
